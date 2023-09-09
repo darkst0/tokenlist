@@ -1,0 +1,23 @@
+{
+  "name": "Fully",
+  "logoURI": "https://upload.wikimedia.org/wikipedia/commons/f/fb/718smiley.svg",
+  "keywords": [
+    "fully"
+  ],
+  "timestamp": "2021-05-27T20:37:00.000+00:00",
+  "tokens": [
+    {
+      "chainId": 5,
+      "address": "0x326C977E6efc84E512bB9C30f76E30c160eD06FB",
+      "name": "Chainlink Token",
+      "symbol": "LINK",
+      "decimals": 18,
+      "logoURI": "https://cryptologos.cc/logos/chainlink-link-logo.svg"
+    }
+  ],
+  "version": {
+    "major": 2,
+    "minor": 0,
+    "patch": 0
+  }
+}
