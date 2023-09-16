@@ -21,7 +21,15 @@
       "symbol": "WMATIC",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/darkst0/tokenlist/main/wmatic.svg"
-    }
+    },
+    {
+      "chainId": 1,
+      "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDT.svg"
+    },
   ],
   "version": {
     "major": 2,
