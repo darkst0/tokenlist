@@ -20,7 +20,7 @@
       "name": "Wrapped Matic",
       "symbol": "WMATIC",
       "decimals": 18,
-      "logoURI": "https://cryptologos.cc/logos/chainlink-link-logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/darkst0/tokenlist/main/wmatic.svg"
     }
   ],
   "version": {
